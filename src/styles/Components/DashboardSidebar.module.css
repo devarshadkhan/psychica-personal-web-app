@@ -1,0 +1,15 @@
+
+.dashboardSidebar{
+    padding: 2rem;
+    background: #f7f7f7;
+    border-radius: 10px;
+    width: 79%;
+    margin-left: auto;
+}
+.dashboardSidebar img{
+    width: 30%;
+    margin: 1rem 0;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}

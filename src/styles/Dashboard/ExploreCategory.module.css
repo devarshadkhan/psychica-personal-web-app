@@ -1,0 +1,16 @@
+.leftSideInfo{
+    padding: 3rem;
+    background: #f7f7f7f7;
+    border-radius: 13px;
+}
+.learnBtn{
+    background-color: transparent;
+    color: #23262F;
+    border: 2px solid #E6E8EC;
+    border-radius: 90px;
+    font-size: 12px;
+}
+.meetBtn{
+    font-size: 12px;
+    border-radius: 90px;
+}

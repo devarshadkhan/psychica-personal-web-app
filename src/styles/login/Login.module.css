@@ -1,0 +1,11 @@
+.headName{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.btnLogin{
+    background-color: black !important;
+    width: 60%;
+    padding: 1rem 0;
+    border: none;
+    margin-bottom: 2rem;
+}
